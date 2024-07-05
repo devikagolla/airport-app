@@ -1,0 +1,43 @@
+.home-icon {
+  width: 17.64px;
+  height: 15.32px;
+  top: 1.68px;
+  left: 0.18px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.nav-menu {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.sidebar-container {
+  background-color: white;
+  width: 20%;
+  height: 100vh;
+  list-style-type: none;
+}
+.service-menu {
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+}
+.service-airport-menu{
+  background-color: rgb(242, 238, 238);
+  font-weight: normal;
+  list-style-type: none;
+}
+.list-menu {
+  display: flex;
+  flex-direction: column;
+  font-weight: normal;
+}
+.service {
+  padding-left: 30px;
+  font-weight: bold;
+}
+.others {
+  padding-left: 30px;
+  font-weight: bold;
+}
